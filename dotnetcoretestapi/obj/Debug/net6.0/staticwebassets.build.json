@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NAS7SB0gNdI/GN/8O0G8JH6CRJubLVNBkj4gN7mRKHI=",
+  "Source": "dotnetcoretestapi",
+  "BasePath": "_content/dotnetcoretestapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
