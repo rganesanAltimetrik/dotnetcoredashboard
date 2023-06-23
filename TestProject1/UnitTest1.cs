@@ -24,7 +24,7 @@ namespace TestProject1
         public void TestMethod1()
         {
             WeatherForecastController controll = new WeatherForecastController(_logger.Object);
-            List<WeatherForecast> result= controll.Get().ToList();
+            List<WeatherForecast> result = controll.Get().ToList();
             Assert.IsNotNull(result);
         }
     }
