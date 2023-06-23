@@ -40,7 +40,7 @@ jobs:
         output: 'both'
         
     - name: Add Coverage PR Comment
-      uses: rganesanAltimetrik/dotnetcoredashboard@feature/dev
+      uses: rganesanAltimetrik/dotnetcoredashboard@main
       if: github.event_name == 'pull_request'
       with:
         recreate: true
