@@ -42,4 +42,4 @@ jobs:
     - name: Report test-coverage to DeepSource
       run: | 
         curl https://deepsource.io/cli | sh
-        DEEPSOURCE_DSN=https://d6269f88abd640aa9f425812e037fd32@app.deepsource.com ./bin/deepsource report --analyzer test-coverage --key csharp --value-file /github/workspace/coverage/coverage.cobertura.xml
+        DEEPSOURCE_DSN=https://d6269f88abd640aa9f425812e037fd32@app.deepsource.com ./bin/deepsource report --analyzer test-coverage --key csharp --value-file ./github/workspace/coverage/coverage.cobertura.xml
