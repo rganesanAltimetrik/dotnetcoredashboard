@@ -38,3 +38,20 @@ jobs:
         badge: true
         format: 'markdown'
         output: 'both'
+        
+    - name: Checkout code
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 50
+        ref: ${{ github.event.pull_request.head.sha }}
+      
+    - name: Add git safe.directory for container
+      run: |
+        mkdir -p /home/runner/work/_temp/_github_home
+        printf "[safe]\ndirectory = /github/workspace" > /home/runner/work/_temp/_github_home/.gitconfig
+
+    - name: Report test-coverage to DeepSource
+      run: | 
+        curl https://deepsource.io/cli | sh
+        ./bin/deepsource report --analyzer test-coverage --key <CSHARP> --value-file </github/workspace/coverage/coverage.cobertura.xml>
+      
