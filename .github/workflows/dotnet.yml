@@ -40,7 +40,7 @@ jobs:
         output: 'both'
         
     - name: Add Coverage PR Comment
-      uses: marocchino/sticky-pull-request-comment@v2
+      uses: rganesanAltimetrik/dotnetcoredashboard@feature/dev
       if: github.event_name == 'pull_request'
       with:
         recreate: true
