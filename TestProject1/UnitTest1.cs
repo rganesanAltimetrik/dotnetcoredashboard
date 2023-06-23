@@ -2,9 +2,11 @@ using dotnetcoretestapi;
 using dotnetcoretestapi.Controllers;
 using Microsoft.Extensions.Logging;
 using Moq;
+using System.Diagnostics.CodeAnalysis;
 
 namespace TestProject1
 {
+    [ExcludeFromCodeCoverage]
     [TestClass]
     public class UnitTest1
     {

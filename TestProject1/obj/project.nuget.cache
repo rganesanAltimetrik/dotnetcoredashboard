@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "TUJ2SX3Pt0QGf5pnAtlZ6XifS+EwGxnVGnSmiAa+WMnIZRAdssMPp/5Zlq3X5xLLF38N/ihXUfg6jYiEHuGHDg==",
+  "dgSpecHash": "k0FrXtuQEBBr6/LGosflMesoAiMHmGa6EmktWLYbcAgBN6dvBHugri1P03ivk/zgxHj1ScRihh/pPxreLlsOng==",
   "success": true,
   "projectFilePath": "D:\\Srijan\\dotnetcoredashboard\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
     "D:\\Users\\avalle\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
-    "D:\\Users\\avalle\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
+    "D:\\Users\\avalle\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "D:\\Users\\avalle\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
     "D:\\Users\\avalle\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "D:\\Users\\avalle\\.nuget\\packages\\microsoft.net.test.sdk\\17.5.0\\microsoft.net.test.sdk.17.5.0.nupkg.sha512",

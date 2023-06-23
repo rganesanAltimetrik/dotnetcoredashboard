@@ -100,7 +100,6 @@ D:\Srijan\dotnetcoredashboard\TestProject1\obj\Debug\net6.0\refint\TestProject1.
 D:\Srijan\dotnetcoredashboard\TestProject1\obj\Debug\net6.0\TestProject1.pdb
 D:\Srijan\dotnetcoredashboard\TestProject1\obj\Debug\net6.0\TestProject1.genruntimeconfig.cache
 D:\Srijan\dotnetcoredashboard\TestProject1\obj\Debug\net6.0\ref\TestProject1.dll
-D:\Srijan\dotnetcoredashboard\TestProject1\bin\Debug\net6.0\CoverletSourceRootsMapping
 D:\Srijan\dotnetcoredashboard\TestProject1\bin\Debug\net6.0\dotnetcoretestapi.deps.json
 D:\Srijan\dotnetcoredashboard\TestProject1\bin\Debug\net6.0\dotnetcoretestapi.runtimeconfig.json
 D:\Srijan\dotnetcoredashboard\TestProject1\bin\Debug\net6.0\appsettings.Development.json
@@ -114,3 +113,4 @@ D:\Srijan\dotnetcoredashboard\TestProject1\bin\Debug\net6.0\Swashbuckle.AspNetCo
 D:\Srijan\dotnetcoredashboard\TestProject1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\Srijan\dotnetcoredashboard\TestProject1\bin\Debug\net6.0\dotnetcoretestapi.dll
 D:\Srijan\dotnetcoredashboard\TestProject1\bin\Debug\net6.0\dotnetcoretestapi.pdb
+D:\Srijan\dotnetcoredashboard\TestProject1\bin\Debug\net6.0\CoverletSourceRootsMapping_TestProject1
